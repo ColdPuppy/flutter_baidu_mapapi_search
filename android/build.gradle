@@ -1,5 +1,3 @@
-package android
-
 group 'com.baidu.flutter_baidu_mapapi_search'
 version '1.0'
 
