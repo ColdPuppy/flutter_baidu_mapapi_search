@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.bean.result.route.masstransirouteresult;
+package com.baidu.mapapi.search.bean.result.route.masstransirouteresult;
 
 import com.baidu.mapapi.search.core.PlaneInfo;
 

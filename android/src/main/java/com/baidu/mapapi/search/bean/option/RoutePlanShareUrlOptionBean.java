@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.bean.option;
+package com.baidu.mapapi.search.bean.option;
 
 /**
  * 路径规划短串分享bean

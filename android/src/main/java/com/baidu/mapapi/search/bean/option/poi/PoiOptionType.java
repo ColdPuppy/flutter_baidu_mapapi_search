@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.bean.option.poi;
+package com.baidu.mapapi.search.bean.option.poi;
 
 /**
  * POI检索结果详细程度

@@ -1,7 +1,6 @@
-/*
+package com.baidu.mapapi.search.bean.result.route;/*
  * Copyright (C) 2020 Baidu, Inc. All Rights Reserved.
  */
-package android.src.main.java.com.baidu.mapapi.search.bean.result.route;
 
 import static com.baidu.mapapi.search.route.MassTransitRouteLine.TransitStep.TrafficCondition;
 

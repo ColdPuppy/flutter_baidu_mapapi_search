@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.bean.result.busline;
+package com.baidu.mapapi.search.bean.result.busline;
 
 import com.baidu.mapapi.model.LatLng;
 import com.baidu.mapapi.search.busline.BusLineResult;

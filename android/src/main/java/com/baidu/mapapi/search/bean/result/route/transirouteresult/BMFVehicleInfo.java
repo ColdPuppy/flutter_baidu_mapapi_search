@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.bean.result.route.transirouteresult;
+package com.baidu.mapapi.search.bean.result.route.transirouteresult;
 
 import com.baidu.mapapi.search.core.VehicleInfo;
 

@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.handlers;
+package com.baidu.mapapi.search.handlers;
 
 import java.util.HashMap;
 import java.util.Iterator;

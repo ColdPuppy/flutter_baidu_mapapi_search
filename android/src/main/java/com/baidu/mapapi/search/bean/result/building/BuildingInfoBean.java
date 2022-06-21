@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.bean.result.building;
+package com.baidu.mapapi.search.bean.result.building;
 
 import com.baidu.mapapi.search.core.BuildingInfo;
 

@@ -1,7 +1,6 @@
-/*
+package com.baidu.mapapi.search.bean.result.route;/*
  * Copyright (C) 2020 Baidu, Inc. All Rights Reserved.
  */
-package android.src.main.java.com.baidu.mapapi.search.bean.result.route;
 
 import com.baidu.mapapi.search.core.RouteLine;
 import com.baidu.mapapi.search.core.RouteStep;

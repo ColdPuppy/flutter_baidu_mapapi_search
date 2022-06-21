@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.bean.option.route;
+package com.baidu.mapapi.search.bean.option.route;
 
 import com.baidu.mapapi.search.route.MassTransitRoutePlanOption;
 import com.baidu.mapapi.search.route.MassTransitRoutePlanOption.TacticsIncity;

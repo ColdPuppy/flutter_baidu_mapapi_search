@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.bean.result;
+package com.baidu.mapapi.search.bean.result;
 
 import com.baidu.mapapi.search.bean.AddressComponentBean;
 import com.baidu.mapapi.search.bean.PoiInfoBean;

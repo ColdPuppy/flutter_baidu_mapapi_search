@@ -1,6 +1,7 @@
-package android.src.main.java.com.baidu.mapapi.search.bean.result.sugesstion;
+package com.baidu.mapapi.search.bean.result.sugesstion;
 
 import com.baidu.mapapi.search.bean.result.ResultBean;
+import com.baidu.mapapi.search.bean.result.sugesstion.SugesstionInfoBean;
 import com.baidu.mapapi.search.core.PoiChildrenInfo;
 import com.baidu.mapapi.search.sug.SuggestionResult;
 

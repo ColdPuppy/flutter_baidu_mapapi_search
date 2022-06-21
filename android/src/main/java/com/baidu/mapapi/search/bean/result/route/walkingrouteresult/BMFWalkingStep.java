@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.bean.result.route.walkingrouteresult;
+package com.baidu.mapapi.search.bean.result.route.walkingrouteresult;
 
 import java.util.List;
 

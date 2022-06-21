@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.bean.result.poi;
+package com.baidu.mapapi.search.bean.result.poi;
 
 import java.util.ArrayList;
 import java.util.List;

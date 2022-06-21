@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.bean.result.route.indoorroute;
+package com.baidu.mapapi.search.bean.result.route.indoorroute;
 
 import com.baidu.mapapi.model.LatLng;
 import com.baidu.mapapi.search.route.IndoorRouteLine.IndoorRouteStep.IndoorStepNode;

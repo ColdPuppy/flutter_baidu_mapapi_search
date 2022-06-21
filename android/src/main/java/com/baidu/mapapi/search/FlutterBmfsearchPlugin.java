@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search;
+package com.baidu.mapapi.search;
 
 import androidx.annotation.NonNull;
 

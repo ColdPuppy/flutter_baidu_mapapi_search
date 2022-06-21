@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.bean.result.busline;
+package com.baidu.mapapi.search.bean.result.busline;
 
 import java.util.ArrayList;
 import java.util.Date;

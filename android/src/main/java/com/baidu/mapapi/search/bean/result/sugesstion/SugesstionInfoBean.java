@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.bean.result.sugesstion;
+package com.baidu.mapapi.search.bean.result.sugesstion;
 
 import com.baidu.mapapi.model.LatLng;
 import com.baidu.mapapi.search.core.PoiChildrenInfo;

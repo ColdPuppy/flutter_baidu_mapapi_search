@@ -1,7 +1,6 @@
-/*
+package com.baidu.mapapi.search.bean.result.poi;/*
  * Copyright (C) 2020 Baidu, Inc. All Rights Reserved.
  */
-package android.src.main.java.com.baidu.mapapi.search.bean.result.poi;
 
 import com.baidu.mapapi.search.bean.option.LatLngBean;
 import com.baidu.mapapi.search.bean.result.ResultBean;

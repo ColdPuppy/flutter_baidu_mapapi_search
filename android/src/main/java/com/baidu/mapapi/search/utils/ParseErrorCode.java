@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.utils;
+package com.baidu.mapapi.search.utils;
 
 import com.baidu.mapapi.search.core.SearchResult;
 

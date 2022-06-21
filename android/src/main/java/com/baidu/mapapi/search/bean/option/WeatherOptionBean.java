@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.bean.option;
+package com.baidu.mapapi.search.bean.option;
 
 import com.baidu.mapapi.model.LatLng;
 import com.baidu.mapapi.search.base.LanguageType;

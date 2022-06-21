@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.bean.result.recommend;
+package com.baidu.mapapi.search.bean.result.recommend;
 
 import com.baidu.mapapi.search.bean.result.ResultBean;
 import com.baidu.mapapi.search.core.RecommendStopInfo;

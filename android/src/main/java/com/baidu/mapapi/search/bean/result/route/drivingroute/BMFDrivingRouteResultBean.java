@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.bean.result.route.drivingroute;
+package com.baidu.mapapi.search.bean.result.route.drivingroute;
 
 import java.util.ArrayList;
 import java.util.Iterator;

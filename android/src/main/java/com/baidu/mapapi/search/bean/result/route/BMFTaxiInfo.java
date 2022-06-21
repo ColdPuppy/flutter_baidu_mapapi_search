@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.bean.result.route;
+package com.baidu.mapapi.search.bean.result.route;
 
 import com.baidu.mapapi.search.core.TaxiInfo;
 

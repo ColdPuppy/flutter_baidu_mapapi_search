@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.bean;
+package com.baidu.mapapi.search.bean;
 
 import com.baidu.mapapi.model.LatLng;
 import com.baidu.mapapi.search.core.PoiDetailInfo;

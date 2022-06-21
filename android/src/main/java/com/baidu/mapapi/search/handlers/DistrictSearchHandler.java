@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.handlers;
+package com.baidu.mapapi.search.handlers;
 
 import android.text.TextUtils;
 import android.util.Log;

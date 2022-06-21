@@ -1,4 +1,4 @@
-package android.src.main.java.com.baidu.mapapi.search.bean.result.weather;
+package com.baidu.mapapi.search.bean.result.weather;
 
 import com.baidu.mapapi.search.weather.WeatherSearchLocation;
 
