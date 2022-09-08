@@ -58,20 +58,23 @@ class BMFSuggestionInfo implements BMFModel {
   /// 联想结果地址。
   String? address;
 
+  /// 联想结果区域编码。
+  int? adCode;
+
   /// 联想结果子节点。
   List<BMFSuggestionChildrenInfo>? children;
 
   /// 有参构造
-  BMFSuggestionInfo({
-    this.key,
-    this.location,
-    this.uid,
-    this.city,
-    this.district,
-    this.tag,
-    this.address,
-    this.children,
-  });
+  BMFSuggestionInfo(
+      {this.key,
+      this.location,
+      this.uid,
+      this.city,
+      this.district,
+      this.tag,
+      this.address,
+      this.children,
+      this.adCode});
 
   /// map => BMFSuggestionInfo
   BMFSuggestionInfo.fromMap(Map map)
@@ -84,6 +87,7 @@ class BMFSuggestionInfo implements BMFModel {
     uid = map['uid'];
     city = map['city'];
     district = map['district'];
+    adCode = map['adCode'];
     tag = map['tag'];
     address = map['address'];
     if (map['children'] != null) {
@@ -108,6 +112,7 @@ class BMFSuggestionInfo implements BMFModel {
       'uid': this.uid,
       'city': this.city,
       'district': this.district,
+      'adCode': this.adCode,
       'tag': this.tag,
       'address': this.address,
       'children': this.children?.map((c) => c.toMap()).toList()

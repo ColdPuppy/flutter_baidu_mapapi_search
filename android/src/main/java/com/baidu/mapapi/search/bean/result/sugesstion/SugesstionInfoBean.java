@@ -23,6 +23,9 @@ public class SugesstionInfoBean {
     /** 联想结果所在区县 */
     public String district;
 
+    /** 联想结果所在区域编码 */
+    public int adCode;
+
     /** 联想结果分类，默认不召回，需要权限。*/
     public String tag;
 
@@ -44,6 +47,7 @@ public class SugesstionInfoBean {
         this.tag = suggestionInfo.tag;
         this.uid = suggestionInfo.uid;
         this.location = suggestionInfo.pt;
+        this.adCode = suggestionInfo.getAdCode();
 
         List<PoiChildrenInfo> poiChildrenInfoList = suggestionInfo.getPoiChildrenInfoList();
         if (null == poiChildrenInfoList || poiChildrenInfoList.size() <= 0) {
