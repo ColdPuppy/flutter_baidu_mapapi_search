@@ -61,10 +61,10 @@ dependencies {
     implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.4.30'
 //    implementation 'com.baidu.lbsyun:BaiduMapSDK_Map:7.5.0'
     implementation 'com.baidu.lbsyun:BaiduMapSDK_Search:7.5.2'
-    implementation 'com.baidu.lbsyun:BaiduMapSDK_Util:7.5.0'
+    implementation 'com.baidu.lbsyun:BaiduMapSDK_Util:7.5.2'
     implementation 'com.baidu.lbsyun:BaiduMapSDK_Location_All:9.1.8'
 //    implementation rootProject.findProject(":flutter_baidu_mapapi_base")
 
     // 百度导航
-    implementation 'com.baidu.lbsyun:BaiduMapSDK_Map-AllNavi:7.5.0'
+    implementation 'com.baidu.lbsyun:BaiduMapSDK_Map-AllNavi:7.5.2'
 }
