@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'flutter_baidu_mapapi_search'
-  s.version          = '3.1.0'
+  s.version          = '3.2.1'
   s.summary          = 'A new Flutter plugin for BaiduMap search.'
   s.description      = <<-DESC
 A new Flutter plugin for BaiduMap search.
@@ -17,7 +17,7 @@ A new Flutter plugin for BaiduMap search.
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
   s.dependency 'flutter_baidu_mapapi_base'
-  s.dependency 'BaiduMapKit/Search','6.5.1'
+  s.dependency 'BaiduMapKit/Search','6.5.3'
   s.platform = :ios, '8.0'
   s.static_framework = true
   # Flutter.framework does not contain a i386 slice. Only x86_64 simulators are supported.
